@@ -1,0 +1,23 @@
+{
+	"name": "estige",
+	"version": null,
+	"description": "Fast and modular ESTree-compliant AST Manipulation Toolkit.",
+	"main": "src/export.js",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/citrizon/estige.git"
+	},
+	"keywords": [
+		"estige",
+		"estree",
+		"ecmascript",
+		"javascript",
+		"ast"
+	],
+	"author": "citrizon",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/citrizon/estige/issues"
+	},
+	"homepage": "https://github.com/citrizon/estige#readme"
+}
