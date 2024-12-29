@@ -10,7 +10,6 @@
 */
 
 const traverser = require( './traverser' );
-const { generate } = require( 'astring' );
 const { parse } = require( './astutils' );
 
 function Value ( ast ) {
