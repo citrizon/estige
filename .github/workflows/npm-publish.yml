@@ -1,4 +1,4 @@
-name: Lusk NPM Release Workflow
+name: Estige NPM Release Workflow
 
 on:
   release:
